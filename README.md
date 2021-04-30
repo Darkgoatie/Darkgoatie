@@ -7,5 +7,5 @@ My other discord bot - Aether: [Invite](https://discord.com/oauth2/authorize?cli
 Also if you'd like to support me, you can donate in my [Patreon](https://patreon.com/aether1611) !
 
 ![Darkgoatie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkgoatie&count_private=true&theme=merko&show_invites=true)
+![Dank Farms Stats](https://discord.com/widget?id=789086563522969610&theme=dark)
 
-<iframe src="https://discord.com/widget?id=789086563522969610&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
