@@ -7,3 +7,8 @@ Also if you'd like to support me, feel free to head to my [Patreon](https://patr
 
 ![Darkgoatie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkgoatie&count_private=true&theme=merko&show_invites=true)
 
+##### Tools i use
+<h5> [Atom](https://atom.io) </h5>
+<img src="https://user-images.githubusercontent.com/81323822/118517821-3a5e9880-b740-11eb-83b5-1c524e3c585d.png" width="30" height="30" />  
+<h5> [Javascript](https://javascript.info) </h5>
+<img src="https://user-images.githubusercontent.com/81323822/118519533-e2289600-b741-11eb-8dd1-5e708de4ca30.jpeg" width="30" height="30" /> 
