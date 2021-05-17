@@ -15,4 +15,4 @@ Also if you'd like to support me, feel free to head to my [Patreon](https://patr
 <img src="https://user-images.githubusercontent.com/81323822/118519533-e2289600-b741-11eb-8dd1-5e708de4ca30.jpeg" width="30" height="30" /> 
 
 ###### [Discord.js](https://discord.js.org/#/)
-<img src="imagehttps://user-images.githubusercontent.com/81323822/118520141-7692f880-b742-11eb-9aee-2737b9f5fab9.png" width="30" height="30" /> 
+<img src="https://user-images.githubusercontent.com/81323822/118520141-7692f880-b742-11eb-9aee-2737b9f5fab9.png" width="30" height="30" /> 
