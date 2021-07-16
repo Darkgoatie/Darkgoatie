@@ -6,7 +6,7 @@ I know:
 
 I'm skilled at:
 - Making Discord Bots
-- Creating Databases with Nodejs fs (FileSystem)
+- Making reactjs websites (Frontend)
 
 Also if you'd like to support me, feel free to head to my [Patreon](https://patreon.com/aether1611) !
 
